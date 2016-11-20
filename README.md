@@ -1,3 +1,10 @@
 # intapp
 
-##Servicio RESTFULL de una red neuronal
+##Servicio RESTFULL de machine learning
+
+###Requisitos
+python
+pandas
+numpy
+scikit–learn
+
